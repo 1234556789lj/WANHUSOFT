@@ -1,5 +1,5 @@
 # WANHUSOFT
-WANHUSOFT ezOFFICE all version is susceptible to unauthorized access.
+WANHUSOFT ezOFFICE version:12.4.10.19 is susceptible to unauthorized access.
 
 1.a url.
 ![QQ截图20230918215723](https://github.com/1234556789lj/WANHUSOFT/assets/118456270/4d3dfe14-c6fe-4037-9e3e-d434e8693595)
